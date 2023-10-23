@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\Laba_1\Laba_1\bin\Debug\net6.0\Laba_1.exe
+C:\Users\andre\source\repos\Laba_1\Laba_1\bin\Debug\net6.0\Laba_1.deps.json
+C:\Users\andre\source\repos\Laba_1\Laba_1\bin\Debug\net6.0\Laba_1.runtimeconfig.json
+C:\Users\andre\source\repos\Laba_1\Laba_1\bin\Debug\net6.0\Laba_1.dll
+C:\Users\andre\source\repos\Laba_1\Laba_1\bin\Debug\net6.0\Laba_1.pdb
+C:\Users\andre\source\repos\Laba_1\Laba_1\obj\Debug\net6.0\Laba_1.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Laba_1\Laba_1\obj\Debug\net6.0\Laba_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\Laba_1\Laba_1\obj\Debug\net6.0\Laba_1.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Laba_1\Laba_1\obj\Debug\net6.0\Laba_1.AssemblyInfo.cs
+C:\Users\andre\source\repos\Laba_1\Laba_1\obj\Debug\net6.0\Laba_1.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Laba_1\Laba_1\obj\Debug\net6.0\Laba_1.dll
+C:\Users\andre\source\repos\Laba_1\Laba_1\obj\Debug\net6.0\refint\Laba_1.dll
+C:\Users\andre\source\repos\Laba_1\Laba_1\obj\Debug\net6.0\Laba_1.pdb
+C:\Users\andre\source\repos\Laba_1\Laba_1\obj\Debug\net6.0\Laba_1.genruntimeconfig.cache
+C:\Users\andre\source\repos\Laba_1\Laba_1\obj\Debug\net6.0\ref\Laba_1.dll
